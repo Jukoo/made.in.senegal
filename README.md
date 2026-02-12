@@ -235,6 +235,8 @@ _*Organized list of open-source projects sorted alphabetically._
  **[Quirgo](https://github.com/wilfreud/quirgo-cli)** | A tool for easily configuring repository secrets and variables using the GitHub API. | **[@wilfreud](https://github.com/wilfreud)** |-|-|
 
 ## R
+| Project Name | Description | Author | Status | Latest Version |
+|-------------|-------------|--------|--------|----------------|
  **[React Flexible List](https://github.com/Alkaly02/react-flexible-list)** | Helps you make responsive layout without any media query or using a third CSS library. | **[@Alkaly02](https://github.com/Alkaly02)** |-|-|
  **[React Multy CSV Viewer](https://github.com/hibou24/react-multy-csv-viewer)** | React component to visualize CSV file. | **[@hibou24](https://github.com/hibou24)** |-|-|
  **[React Native Drag Drop](https://github.com/VolkenoMakers/react-native-drag-drop)** | A module for React Native projects to set up a drag-and-drop system. | **[@VolkenoMakers](https://github.com/VolkenoMakers)** |-|-|
@@ -283,7 +285,6 @@ _*Organized list of open-source projects sorted alphabetically._
 ## W
 | Project Name | Description | Author | Status | Latest Version |
 |-------------|-------------|--------|--------|----------------|
-
  **[Wave Http Client](https://github.com/Kepsondiaz/WaveHttpClient)** | A PHP library designed to simplify interactions with the Wave API for developers. | **[@Kepsondiaz](https://github.com/Kepsondiaz)** |-|-|
  **[Waxtane](https://github.com/MedouneSGB/Waxtane)** | A collection of discussion phrases in Wolof, French and English. | **[@MedouneSGB](https://github.com/MedouneSGB)** |-|-|
  **[WestAfrica Economic Data](https://github.com/Ousmaneleye/WestAfrica_economic_data)** | Visualisation of West Africa's economics data. | **[@Ousmaneleye](https://github.com/Ousmaneleye)** |-|-|
